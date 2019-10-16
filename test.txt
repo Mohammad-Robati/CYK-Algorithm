@@ -1,0 +1,7 @@
+function pow(int a, int b) {
+    return a ** b;
+}
+
+int x := pow(2, 3);
+int y := x + (3*5/2);
+
